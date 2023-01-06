@@ -13,8 +13,17 @@
 ## 파일 설명
 ### JSP 
 1. index.jsp : main 페이지
+<p>
+<img width="49%" alt="main" src="https://user-images.githubusercontent.com/117243197/210958735-0513114e-e6ea-4fb8-b080-7c4319c50364.png">
+<img width="49%" alt="search" src="https://user-images.githubusercontent.com/117243197/210958950-2908e2cd-ade1-4ab0-bb5b-0435e67b03c3.png">
+</p>
+
 2. addWifiInfo.jsp : <code>Api</code> 데이터를 가져오며, 가져온 데이터 수를 화면에 출력하는 페이지
+<img width="50%" alt="api" src="https://user-images.githubusercontent.com/117243197/210958947-af47a419-c717-4095-8ebb-746a8a693d24.png">
+
 3. history.jsp : 위치 정보 조회한 리스트를 보여주는 페이지
+<img width="50%" alt="history" src="https://user-images.githubusercontent.com/117243197/210958949-35c3eb4b-4ba7-48d4-b6e5-94f0000d0e0e.png">
+
 4. delete.jsp : history.jsp 에서 받아온 id 값으로 wifi_history DB 에서 해당 값을 삭제하는 페이지
 
 ### JAVA
