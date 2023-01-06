@@ -3,11 +3,18 @@
 서울시 공공와이파이 서비스 위치 정보 API 를 이용하여 내 위치 기반 공공 와이파이 정보를 제공하는 웹 서비스입니다.
 
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB_Foundation-1F305F?style=flat&logo=MariaDB&Foundation&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB_Foundation-1F305F?style=flat&logo=MariaDB&Foundation&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&Foundation&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 </div>
 
 ## 파일 설명
