@@ -1,6 +1,6 @@
-# Wifi_information_PJT
+# 📡 Wifi_information_PJT
 
-서울시 공공와이파이 서비스 위치 정보 API 를 이용하여 내 위치 기반 공공 와이파이 정보를 제공하는 웹 서비스입니다.
+서울시 공공와이파이 서비스 위치 정보 API 를 이용하여 내 위치 기반 공공 와이파이 정보를 제공하는 웹 서비스입니다. 
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
